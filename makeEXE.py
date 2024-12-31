@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=Z:\Program\icon.ico gui.py
