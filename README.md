@@ -4,6 +4,10 @@ These Python scripts are designed to extract data from ETABS and write it to an 
 
 File Descriptions:
 gui.py: Main file to run
+
 Test Frame.EDB: ETABS file (Version 22)
+
 Test Frame.pdf: Graphics of the model
+
 Test Frame.xls: Output file
+
